@@ -77,7 +77,7 @@ Processed and cleaned raw datasets using Python (Pandas) to improve data quality
 
 ## 🌐 Connect With Me
 - 📧 Email: (mwaisam103@gmail.com)
--  ✍️ Dev.to: [@samuel_mwai)
+-  ✍️ Dev.to: [@samuel_mwai [https://dev.to/samuel_mwai] )
 
 
 > "Data tells a story—my goal is to uncover it and turn it into meaningful insights."
